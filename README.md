@@ -31,7 +31,4 @@ Our vision of the UI has been drawn up on invision below:
 https://276group.invisionapp.com/freehand/BGC-WorkLoad-Management-System-PExE8GEcs
 
 <h2>How to Run</h2>
-Click here to test our [website](https://bgc-workload-management.herokuapp.com/)!
-Login Info (view only):
-- Username: read
-- Password: 123
+Click here to test our [website](https://bgc-workload-management.herokuapp.com/)
