@@ -29,6 +29,3 @@ The scope of our project will have one main focus to begin with, which will be i
 Our group is one of the few that is working with an employer. Thus we have decided to schedule weekly meetings at 9:30 a.m with the employer, as well as formal team standups weekly on Saturdays at 4:00 p.m. We have decided to utilize various resources such as Trello for project management, discord for informal team communication and github updates (through webhooks), and Slack and Zoom for client communication.
 Our vision of the UI has been drawn up on invision below:
 https://276group.invisionapp.com/freehand/BGC-WorkLoad-Management-System-PExE8GEcs
-
-<h2>How to Run</h2>
-Click here to test our [website](https://bgc-workload-management.herokuapp.com/)
